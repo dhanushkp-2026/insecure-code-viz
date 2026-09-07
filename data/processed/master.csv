@@ -316,7 +316,6 @@ click,Python,D:\insecure-code-viz\repos\click\tests\test_commands.py,227,Use of 
 click,Python,D:\insecure-code-viz\repos\click\tests\test_commands.py,228,Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.,Assert Usage,LOW,HIGH,Bandit
 click,Python,D:\insecure-code-viz\repos\click\tests\test_commands.py,276,Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.,Assert Usage,LOW,HIGH,Bandit
 click,Python,D:\insecure-code-viz\repos\click\tests\test_commands.py,252,Probable insecure usage of temp file/directory.,Insecure Temp File Usage,MEDIUM,MEDIUM,Bandit
-click,Python,D:\insecure-code-viz\repos\click\tests\test_commands.py,252,Probable insecure usage of temp file/directory.,Insecure Temp File Usage,MEDIUM,MEDIUM,Bandit
 click,Python,D:\insecure-code-viz\repos\click\tests\test_commands.py,294,Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.,Assert Usage,LOW,HIGH,Bandit
 click,Python,D:\insecure-code-viz\repos\click\tests\test_commands.py,295,Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.,Assert Usage,LOW,HIGH,Bandit
 click,Python,D:\insecure-code-viz\repos\click\tests\test_commands.py,298,Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.,Assert Usage,LOW,HIGH,Bandit
