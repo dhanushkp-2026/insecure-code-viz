@@ -5,6 +5,12 @@ from pathlib import Path
 import pandas as pd
 import plotly.express as px
 
+SEVERITY_COLOR_MAP = {
+	"LOW": "#4C72B0",
+	"MEDIUM": "#DD8452",
+	"HIGH": "#C44E52",
+}
+
 
 def make_charts() -> None:
 	"""Load the master findings file and save three interactive charts."""
@@ -64,6 +70,8 @@ def make_charts() -> None:
 		treemap_data,
 		path=["repo_name", "severity", "pattern_short"],
 		values="findings",
+		color="severity",
+		color_discrete_map=SEVERITY_COLOR_MAP,
 		labels={"findings": "Findings", "repo_name": "Repository"},
 		title="Findings by Repository and Severity",
 	)

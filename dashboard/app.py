@@ -6,11 +6,25 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+SEVERITY_COLOR_MAP = {
+	"LOW": "#4C72B0",
+	"MEDIUM": "#DD8452",
+	"HIGH": "#C44E52",
+}
+
 
 def main() -> None:
 	# Configure the browser tab and give the dashboard its main heading.
-	st.set_page_config(page_title="Insecure Coding Pattern Dashboard", layout="wide")
+	st.set_page_config(
+		page_title="Insecure Coding Pattern Dashboard",
+		page_icon="🔍",
+		layout="wide",
+	)
 	st.title("Insecure Coding Pattern Dashboard")
+	st.caption(
+		"Interactive analysis of Bandit security scan findings across open-source "
+		"Python repositories"
+	)
 
 	# --- Load Data ---
 	# Resolve the CSV relative to this file so the app works from the project
@@ -61,6 +75,7 @@ def main() -> None:
 	metric_columns[2].metric(
 		"Number of High Severity Findings", number_of_high_severity
 	)
+	st.divider()
 
 	# --- Charts ---
 	# Each chart uses Plotly so it can be hovered, zoomed, and explored in place.
@@ -88,7 +103,9 @@ def main() -> None:
 		severity_figure = px.pie(
 			severity_counts,
 			values="findings",
-			 names="severity",
+			names="severity",
+			color="severity",
+			color_discrete_map=SEVERITY_COLOR_MAP,
 			hole=0.45,
 			title="Severity Distribution",
 		)
@@ -107,9 +124,17 @@ def main() -> None:
 			treemap_data,
 			path=["repo_name", "severity", "pattern_short"],
 			values="findings",
+			color="severity",
+			color_discrete_map=SEVERITY_COLOR_MAP,
 			title="Findings by Repository and Severity",
 		)
+		treemap_figure.update_traces(
+			marker=dict(line=dict(color="white", width=2)),
+			root_color="white",
+		)
+		treemap_figure.update_layout(paper_bgcolor="white")
 		chart_columns[2].plotly_chart(treemap_figure, use_container_width=True)
+	st.divider()
 
 	# --- Findings Table ---
 	# A fixed set of useful columns keeps the detailed results readable. The

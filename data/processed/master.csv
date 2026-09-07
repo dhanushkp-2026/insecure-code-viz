@@ -2487,6 +2487,8 @@ flask,Python,D:\insecure-code-viz\repos\flask\tests\test_views.py,252,Use of ass
 flask,Python,D:\insecure-code-viz\repos\flask\tests\test_views.py,253,Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.,Assert Usage,LOW,HIGH,Bandit
 flask,Python,D:\insecure-code-viz\repos\flask\tests\test_views.py,270,Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.,Assert Usage,LOW,HIGH,Bandit
 flask,Python,D:\insecure-code-viz\repos\flask\tests\test_views.py,271,Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.,Assert Usage,LOW,HIGH,Bandit
+python-docs-zh-tw-3.14,Python,D:\insecure-code-viz\repos\python-docs-zh-tw-3.14\.scripts\summarize_progress\main.py,19,Call to requests without timeout,Missing Request Timeout,MEDIUM,LOW,Bandit
+python-docs-zh-tw-3.14,Python,D:\insecure-code-viz\repos\python-docs-zh-tw-3.14\.scripts\summarize_progress\main.py,45,Call to requests without timeout,Missing Request Timeout,MEDIUM,LOW,Bandit
 requests,Python,D:\insecure-code-viz\repos\requests\src\requests\__init__.py,66,Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.,Assert Usage,LOW,HIGH,Bandit
 requests,Python,D:\insecure-code-viz\repos\requests\src\requests\__init__.py,76,Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.,Assert Usage,LOW,HIGH,Bandit
 requests,Python,D:\insecure-code-viz\repos\requests\src\requests\__init__.py,78,Use of assert detected. The enclosed code will be removed when compiling to optimised byte code.,Assert Usage,LOW,HIGH,Bandit
