@@ -1,20 +1,7 @@
 {
   "errors": [],
-  "generated_at": "2026-09-07T06:18:13Z",
+  "generated_at": "2026-09-14T05:01:05Z",
   "metrics": {
-    "D:\\insecure-code-viz\\repos\\flask\\docs\\conf.py": {
-      "CONFIDENCE.HIGH": 0,
-      "CONFIDENCE.LOW": 0,
-      "CONFIDENCE.MEDIUM": 0,
-      "CONFIDENCE.UNDEFINED": 0,
-      "SEVERITY.HIGH": 0,
-      "SEVERITY.LOW": 0,
-      "SEVERITY.MEDIUM": 0,
-      "SEVERITY.UNDEFINED": 0,
-      "loc": 80,
-      "nosec": 0,
-      "skipped_tests": 0
-    },
     "D:\\insecure-code-viz\\repos\\flask\\examples\\celery\\make_celery.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
@@ -1090,7 +1077,7 @@
       "SEVERITY.LOW": 1075,
       "SEVERITY.MEDIUM": 5,
       "SEVERITY.UNDEFINED": 0,
-      "loc": 13301,
+      "loc": 13221,
       "nosec": 0,
       "skipped_tests": 0
     }
