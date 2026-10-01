@@ -1,0 +1,461 @@
+{
+  "errors": [],
+  "generated_at": "2026-10-01T07:32:42Z",
+  "metrics": {
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Ascii_art\\make_art.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 31,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\BINARY SEARCH\\binary_search.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 23,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\BubbleSort\\BubbleSort.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 15,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\BubbleSort\\Bubble_sort.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 16,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Convert_JPEG_to_PNG\\converter_GUI.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 32,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Convert_JPEG_to_PNG\\converter_terminal.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 3,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Countdown Timer using Python\\main.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 11,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\DNS Record using Python\\dns_record.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 14,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Dns_record\\dns_record.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 14,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Duplicate files remover\\duplicatefileremover.py": {
+      "CONFIDENCE.HIGH": 1,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 1,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 28,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Face Recognition Using Python\\Face.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 17,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Geocoding of a Webpage using Python\\geocoding.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 1,
+      "CONFIDENCE.MEDIUM": 1,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 1,
+      "SEVERITY.MEDIUM": 1,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 15,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\JavaCodes\\LinearSearch.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 10,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\JavaCodes\\bubble_sort.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 11,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\LanguageTranslator-Using-Python\\languageTranslator.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 52,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\MineSweeper Using Python\\Minesweeper.py": {
+      "CONFIDENCE.HIGH": 1,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 1,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 106,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Resume Builder\\compress_pdf.py": {
+      "CONFIDENCE.HIGH": 1,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 1,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 10,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Screenshot using Python\\screenshot.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 28,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Simple-Plagiarism-Checker-Project\\plag.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 64,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Tic Tac Toe Python\\game.py": {
+      "CONFIDENCE.HIGH": 4,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 4,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 74,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "_totals": {
+      "CONFIDENCE.HIGH": 7,
+      "CONFIDENCE.LOW": 1,
+      "CONFIDENCE.MEDIUM": 1,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 2,
+      "SEVERITY.LOW": 6,
+      "SEVERITY.MEDIUM": 1,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 574,
+      "nosec": 0,
+      "skipped_tests": 0
+    }
+  },
+  "results": [
+    {
+      "code": "9     BLOCKSIZE = 65536\n10     hasher = hashlib.md5()\n11     with open(filename, 'rb') as file:\n",
+      "col_offset": 13,
+      "end_col_offset": 26,
+      "filename": "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Duplicate files remover\\duplicatefileremover.py",
+      "issue_confidence": "HIGH",
+      "issue_cwe": {
+        "id": 327,
+        "link": "https://cwe.mitre.org/data/definitions/327.html"
+      },
+      "issue_severity": "HIGH",
+      "issue_text": "Use of weak MD5 hash for security. Consider usedforsecurity=False",
+      "line_number": 10,
+      "line_range": [
+        10
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b324_hashlib.html",
+      "test_id": "B324",
+      "test_name": "hashlib"
+    },
+    {
+      "code": "9 #To know how to obtain a unique private_token please refer the README file for this script.\n10 private_token = \"Your_private_token\"\n11 \n",
+      "col_offset": 16,
+      "end_col_offset": 36,
+      "filename": "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Geocoding of a Webpage using Python\\geocoding.py",
+      "issue_confidence": "MEDIUM",
+      "issue_cwe": {
+        "id": 259,
+        "link": "https://cwe.mitre.org/data/definitions/259.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Possible hardcoded password: 'Your_private_token'",
+      "line_number": 10,
+      "line_range": [
+        10
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b105_hardcoded_password_string.html",
+      "test_id": "B105",
+      "test_name": "hardcoded_password_string"
+    },
+    {
+      "code": "17 \n18 response = requests.get(url, params=data)\n19 \n",
+      "col_offset": 11,
+      "end_col_offset": 41,
+      "filename": "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Geocoding of a Webpage using Python\\geocoding.py",
+      "issue_confidence": "LOW",
+      "issue_cwe": {
+        "id": 400,
+        "link": "https://cwe.mitre.org/data/definitions/400.html"
+      },
+      "issue_severity": "MEDIUM",
+      "issue_text": "Call to requests without timeout",
+      "line_number": 18,
+      "line_range": [
+        18
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b113_request_without_timeout.html",
+      "test_id": "B113",
+      "test_name": "request_without_timeout"
+    },
+    {
+      "code": "18         while bombs_planted < self.num_bombs:\n19             loc = random.randint(0, self.dim_size**2 - 1)\n20             row = loc // self.dim_size\n",
+      "col_offset": 18,
+      "end_col_offset": 57,
+      "filename": "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\MineSweeper Using Python\\Minesweeper.py",
+      "issue_confidence": "HIGH",
+      "issue_cwe": {
+        "id": 330,
+        "link": "https://cwe.mitre.org/data/definitions/330.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Standard pseudo-random generators are not suitable for security/cryptographic purposes.",
+      "line_number": 19,
+      "line_range": [
+        19
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/blacklists/blacklist_calls.html#b311-random",
+      "test_id": "B311",
+      "test_name": "blacklist"
+    },
+    {
+      "code": "15 \n16 os.system(cmd)\n",
+      "col_offset": 0,
+      "end_col_offset": 14,
+      "filename": "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Resume Builder\\compress_pdf.py",
+      "issue_confidence": "HIGH",
+      "issue_cwe": {
+        "id": 78,
+        "link": "https://cwe.mitre.org/data/definitions/78.html"
+      },
+      "issue_severity": "HIGH",
+      "issue_text": "Starting a process with a shell, possible injection detected, security issue.",
+      "line_number": 16,
+      "line_range": [
+        16
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b605_start_process_with_a_shell.html",
+      "test_id": "B605",
+      "test_name": "start_process_with_a_shell"
+    },
+    {
+      "code": "66 while(Game == Running):    \n67     os.system('cls')    \n68     DrawBoard()    \n",
+      "col_offset": 4,
+      "end_col_offset": 20,
+      "filename": "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Tic Tac Toe Python\\game.py",
+      "issue_confidence": "HIGH",
+      "issue_cwe": {
+        "id": 78,
+        "link": "https://cwe.mitre.org/data/definitions/78.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Starting a process with a shell: Seems safe, but may be changed in the future, consider rewriting without shell",
+      "line_number": 67,
+      "line_range": [
+        67
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b605_start_process_with_a_shell.html",
+      "test_id": "B605",
+      "test_name": "start_process_with_a_shell"
+    },
+    {
+      "code": "66 while(Game == Running):    \n67     os.system('cls')    \n68     DrawBoard()    \n",
+      "col_offset": 4,
+      "end_col_offset": 20,
+      "filename": "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Tic Tac Toe Python\\game.py",
+      "issue_confidence": "HIGH",
+      "issue_cwe": {
+        "id": 78,
+        "link": "https://cwe.mitre.org/data/definitions/78.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Starting a process with a partial executable path",
+      "line_number": 67,
+      "line_range": [
+        67
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b607_start_process_with_partial_path.html",
+      "test_id": "B607",
+      "test_name": "start_process_with_partial_path"
+    },
+    {
+      "code": "80 \n81 os.system('cls')    \n82 DrawBoard()    \n",
+      "col_offset": 0,
+      "end_col_offset": 16,
+      "filename": "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Tic Tac Toe Python\\game.py",
+      "issue_confidence": "HIGH",
+      "issue_cwe": {
+        "id": 78,
+        "link": "https://cwe.mitre.org/data/definitions/78.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Starting a process with a shell: Seems safe, but may be changed in the future, consider rewriting without shell",
+      "line_number": 81,
+      "line_range": [
+        81
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b605_start_process_with_a_shell.html",
+      "test_id": "B605",
+      "test_name": "start_process_with_a_shell"
+    },
+    {
+      "code": "80 \n81 os.system('cls')    \n82 DrawBoard()    \n",
+      "col_offset": 0,
+      "end_col_offset": 16,
+      "filename": "C:\\Users\\DHANUSH K P\\OneDrive\\Desktop\\insecure-code-viz-main\\repos\\Java-Projects-Collections-main\\Projects\\Tic Tac Toe Python\\game.py",
+      "issue_confidence": "HIGH",
+      "issue_cwe": {
+        "id": 78,
+        "link": "https://cwe.mitre.org/data/definitions/78.html"
+      },
+      "issue_severity": "LOW",
+      "issue_text": "Starting a process with a partial executable path",
+      "line_number": 81,
+      "line_range": [
+        81
+      ],
+      "more_info": "https://bandit.readthedocs.io/en/1.9.4/plugins/b607_start_process_with_partial_path.html",
+      "test_id": "B607",
+      "test_name": "start_process_with_partial_path"
+    }
+  ]
+}
